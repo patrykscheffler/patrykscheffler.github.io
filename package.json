@@ -1,0 +1,15 @@
+{
+  "name": "patrykscheffler",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "http://patrykscheffler.com",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "install": "bundle install"
+  },
+  "author": {
+    "name": "Patryk Scheffler",
+    "url": "http://github.com/patrykscheffler",
+    "mail": "patryk.scheffler@gmail.com"
+  }
+}
